@@ -114,3 +114,25 @@ body{
 
 }
 
+.img-text-wrapper .subtitle {
+
+    transition: 1s;
+    font-weight:600px ;
+    color: transparent;
+
+}
+
+
+.img-text-wrapper:hover .subtitle {
+    font-weight:600px ;
+    color: lightseagreen;
+}
+
+
+
+.img-darken{
+    transition: 1s;
+    filter: brightness(10%);
+}
+
+

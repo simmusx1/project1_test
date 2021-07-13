@@ -41,14 +41,24 @@ body{
     margin-right:20px ;
     font-size: 0.9m;
     text-transform: uppercase;
+    
+
 }
+
+
+
+
+
 
 
 .nav-link-wrapper{ 
     height: 22px;
     border-bottom: 1px solid transparent ;
     transition: border-bottom 0.5s;
+
 }
+
+
 
 
 .nav-link-wrapper a {
@@ -57,6 +67,8 @@ body{
     transition: color 0.5s;
 
 }
+
+
 
 
 .nav-link-wrapper:hover {
